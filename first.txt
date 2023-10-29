@@ -5,5 +5,4 @@ overwright??
 
 ・git add
 ・git commit
-
-おなか減った
+・git status
